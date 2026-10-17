@@ -1,0 +1,35 @@
+1:"$Sreact.fragment"
+2:"static/chunks/357-6a6574d7ef8a9f63.js"
+3:"static/chunks/503-9090f2cb970911fc.js"
+4:"static/chunks/24-b1ee2e6a510c748a.js"
+5:"static/chunks/app/layout-1ff702a822839fd8.js"
+6:I[1019,["357","$2","503","$3","24","$4","177","$5"],"HomeLink"]
+7:I[28,["357","$2","503","$3","24","$4","177","$5"],"IndexNav"]
+8:I[1820,[],""]
+9:I[2394,[],""]
+a:"static/chunks/app/page-f469b4ab05ed53af.js"
+b:I[5357,["357","$2","503","$3","24","$4","974","$a"],""]
+12:I[8457,[],"OutletBoundary"]
+13:"$Sreact.suspense"
+16:"ViewportBoundary"
+17:I[8457,[],"$16"]
+18:"MetadataBoundary"
+19:I[8457,[],"$18"]
+:HL["/_next/static/css/ece0a37cc35cd014.css","style"]
+:HL["/_next/static/css/7992402fc937d669.css","style"]
+:HL["/_next/static/css/3136c2720ba1a157.css","style"]
+d:X
+10:X
+10:C
+11:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"id":"main-content","className":"inner-page shell not-found","children":[["$","p",null,{"className":"mono","children":"404 / PAGE NOT FOUND"}],["$","h1",null,{"children":[["$","span",null,{"lang":"zh-CN","children":"此页尚未收录"}],["$","span",null,{"lang":"en","children":"This page isn’t in the archive."}]]}],["$","$Lb",null,{"href":"/","className":"back-link","children":[["$","span",null,{"lang":"zh-CN","children":"返回封面"}],["$","span",null,{"lang":"en","children":"Back to home →"}]]}]]}],null,["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}],"p":"$@15","v":null,"s":"$d"}}]]
+e:[["children",{"s":"_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@f","v":"$10","s":"$d"},"c":"$Q11"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/ece0a37cc35cd014.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/7992402fc937d669.css","precedence":"next"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/css/3136c2720ba1a157.css","precedence":"next"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"跳至内容 / Skip to content"}],["$","div",null,{"className":"site-layout","children":[["$","header",null,{"className":"site-header shell","children":[["$","$L6",null,{}],["$","span",null,{"className":"header-caption mono","lang":"en","children":["INDEPENDENT PRACTICE",["$","br",null,{}],"DESIGN & MOVING IMAGE"]}],["$","$L7",null,{}]]}],["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}],"notFound":[["$","main",null,{"id":"main-content","className":"inner-page shell not-found","children":[["$","p",null,{"className":"mono","children":"404 / PAGE NOT FOUND"}],["$","h1",null,{"children":[["$","span",null,{"lang":"zh-CN","children":"此页尚未收录"}],["$","span",null,{"lang":"en","children":"This page isn’t in the archive."}]]}],["$","$Lb",null,{"href":"/","className":"back-link","children":[["$","span",null,{"lang":"zh-CN","children":"返回封面"}],["$","span",null,{"lang":"en","children":"Back to home →"}]]}]]}],[]]}],["$","footer",null,{"className":"site-footer shell mono","children":[["$","span",null,{"children":[2026," ",["$","span",null,{"lang":"en","children":"Cheng Linfang"}]]}],["$","span",null,{"children":[["$","span",null,{"lang":"zh-CN","children":"个人作品集"}],["$","span",null,{"className":"footer-slash","children":"/"}],["$","span",null,{"lang":"en","children":"PORTFOLIO"}]]}]]}]]}]]}]}]]}],"p":"$@c","v":null,"s":"$d"},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"程琳芳 / Cheng Linfang — 个人实践档案"}],["$","meta","1",{"name":"description","content":"程琳芳，视觉设计师与影像创作者。平面设计、动画与影像。Visual Designer & Filmmaker. Graphic design, animation and moving image."}]]}]}],null]}],null]}],"p":"$@1a","v":null,"s":"$d"}},"a":"$@1b","u":"$@1c","b":"IAL4fhQ6XDyOzac6iAhh9"}
+14:null
+d:300
+1c:true
+d:C
+1b:0
+f:"$undefined"
+c:"$undefined"
+1a:"$undefined"
+15:"$undefined"
